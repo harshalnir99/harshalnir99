@@ -1,7 +1,7 @@
 Hello Everyone👋
 
 Being a Data whizz and having exceptional knowledge in data gathering, data preprocessing, data visualization, feature engineering, and model evaluation make me curious to solve real-life problems by Predictive Analysis and AI. my main focus to derive great business outcomes through a data-driven approach.
-- 👀 I’m interested in Data science domain
+
 - 🌱 I’m currently learning Data analytics(python, power BI, tableau, SQL, Excel), Machine learning, Deep learning, NLP
 - 📫 How to reach me ...you can conact via harshalnir99@gmail.com
 - 📧 :- https://www.linkedin.com/in/harshal-nirgulkar-4a21a1123/
