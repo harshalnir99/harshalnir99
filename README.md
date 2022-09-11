@@ -4,7 +4,7 @@ Being a Data whizz and having exceptional knowledge in data gathering, data prep
 
 - 🌱 I’m currently learning Data analytics(python, power BI, tableau, SQL, Excel), Machine learning, Deep learning, NLP
 - 📫 How to reach me ...you can conact via harshalnir99@gmail.com
-- 📧 :- https://www.linkedin.com/in/harshal-nirgulkar-4a21a1123/
+- 📧 :- https://www.linkedin.com/in/harshal-nirgulkar
 
 <!---
 harshalnir99/harshalnir99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
